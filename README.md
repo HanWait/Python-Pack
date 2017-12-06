@@ -12,3 +12,5 @@ https://github.com/HanWait/Python-Pack
 2.打开终端，cd到项目的根目录里面
 3.在终端输入  python autobuild.py
 上面三个步骤完成之后，终端就会开始打包，** EXPORT SUCCEEDED **出现这个字样就是打包成功，打好的包会在你的项目的根目录里面Packge文件夹里面。
+
+补充：放在外面的autobuild.py和文件夹里面的不一样，外面的这个是最新修改的，支持打包到桌面上，文件夹里面的是打包到项目工程文件夹里面。
